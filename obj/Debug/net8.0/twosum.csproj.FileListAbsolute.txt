@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\bin\Debug\net8.0\twosum.exe
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\bin\Debug\net8.0\twosum.deps.json
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\bin\Debug\net8.0\twosum.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\bin\Debug\net8.0\twosum.dll
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\bin\Debug\net8.0\twosum.pdb
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.dll
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\refint\twosum.dll
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.pdb
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\twosum.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\dbk528\MyDotNetApp\twosum\obj\Debug\net8.0\ref\twosum.dll
